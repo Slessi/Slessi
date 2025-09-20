@@ -3,15 +3,13 @@
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Slessi&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Slessi's Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Slessi&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Slessi's Stats" />
 </p>
-
 <p align="center">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Slessi&theme=dracula&hide_border=false" alt="Slessi's Streak" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Slessi&theme=dracula&hide_border=false" alt="Slessi's Streak" />
 </p>
-
 <p align="center">
-   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slessi&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Slessi's Top Languages" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slessi&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Slessi's Top Languages" />
 </p>
 
 <p align="center">
